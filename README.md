@@ -1,6 +1,6 @@
-<h1 align="center"><b> 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
+<h1 align="center"><b> 🕊️⃝‌ ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
 
-<p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="Badhacker98"></p>
+<p align="center"><img src="https://telegra.ph/file/649f231e1228f9518bea1.jpg" alt="naksh_vai"></p>
 
 <h2 align="center">😈 Telegram Bot on Steroids!</h3>
 
@@ -141,7 +141,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/Badhacker98">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡፝֟፝֟</a>
+    Made with ❤️ by <a href="https://github.com/Wizardtexh">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡፝֟፝֟</a>
 </h2>
 
 ---
